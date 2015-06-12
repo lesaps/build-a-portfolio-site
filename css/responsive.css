@@ -1,0 +1,45 @@
+@media sCreen and (max-width: 995px) {
+	.featured-work img {
+		max-width: 75%;
+	}
+
+	.toplist {
+		padding-top: 0px;
+	}
+
+	.project_links {
+		padding-bottom: 20px;
+	}
+}
+
+@media screen and (max-width: 600px) {
+	.logo_large  {
+		max-width: 20%;
+	}
+
+	.main_head {
+		font-size: 3em;
+	}
+
+	.featured-work img {
+		max-width: 80%;
+	}
+}
+
+@media screen and (max-width: 420px) {
+	.main_head {
+		font-size: 2em;
+	}
+
+	.sub_head {
+		font-size: 1em;
+	}
+
+	.heading_2 {
+		font-size: 1.5em;
+	}
+
+	.title {
+		font-size: 1.3em;
+	}
+}
